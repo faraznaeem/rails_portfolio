@@ -1,24 +1,5 @@
 # README
+[![Build Status](https://semaphoreci.com/api/v1/faraznaeem/rails_portfolio-2/branches/development/badge.svg)](https://semaphoreci.com/faraznaeem/rails_portfolio-2)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Coverage Status](https://coveralls.io/repos/github/faraznaeem/rails_portfolio/badge.svg?branch=development)](https://coveralls.io/github/faraznaeem/rails_portfolio?branch=development)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
